@@ -1,0 +1,90 @@
+{
+ "texture_size": [
+  32,
+  32
+ ],
+ "textures": {
+  "0": "hermodoors:block/zgd_door",
+  "1": "hermodoors:block/zgd_parts",
+  "particle": "hermodoors:block/zgd_door"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    32,
+    3
+   ],
+   "rotation": {
+    "angle": 0,
+    "axis": "y",
+    "origin": [
+     16,
+     0,
+     3
+    ]
+   },
+   "faces": {
+    "north": {
+     "uv": [
+      0,
+      0,
+      4,
+      8
+     ],
+     "texture": "#0"
+    },
+    "east": {
+     "uv": [
+      0,
+      8,
+      0.75,
+      16
+     ],
+     "texture": "#0"
+    },
+    "south": {
+     "uv": [
+      4,
+      0,
+      8,
+      8
+     ],
+     "texture": "#0"
+    },
+    "west": {
+     "uv": [
+      8,
+      0,
+      8.75,
+      8
+     ],
+     "texture": "#0"
+    },
+    "up": {
+     "uv": [
+      0.75,
+      8,
+      4.75,
+      8.75
+     ],
+     "texture": "#0"
+    },
+    "down": {
+     "uv": [
+      4.75,
+      8,
+      8.75,
+      8.75
+     ],
+     "texture": "#0"
+    }
+   }
+  }
+ ]
+}
